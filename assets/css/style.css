@@ -181,3 +181,21 @@ footer {
     text-align: center;
     border-top: 3px solid #a35c00;
 }
+
+@media screen and (max-width:980px) {
+    .content-box{
+        width:100%;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .content-box{
+        width:100%;
+    }
+}
+
+@media screen and (max-width:640px) {
+    .content-box{
+        width:100%;
+    }
+}
