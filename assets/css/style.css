@@ -184,11 +184,9 @@ footer {
 
 /*980 screen size*/
 @media screen and (max-width:980px) {
-    
     .content-box{
         width:100%;
     }
-
     .portfolioimg{
         width:100%;
     }
@@ -198,8 +196,8 @@ footer {
 @media screen and (max-width:768px) {
     .content-box{
         width:100%;
+        margin-top:30px;
     }
-
     .portfolioimg{
         width:100%;
     }
@@ -207,8 +205,22 @@ footer {
 
 /*640 screen size*/
 @media screen and (max-width:640px) {
+    .navbar{
+        position:static;
+    }
+    .name{
+        width:100%;
+        margin-left:0;
+    }
+    .menu ul{
+        margin-top:4px;
+        list-style-type:none;
+        float:left;
+        position:inherit;
+    }
     .content-box{
         width:100%;
+        margin-top: 30px;
     }
     .first-row{
         flex-direction:column;
