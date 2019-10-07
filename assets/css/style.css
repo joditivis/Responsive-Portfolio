@@ -182,20 +182,38 @@ footer {
     border-top: 3px solid #a35c00;
 }
 
+/*980 screen size*/
 @media screen and (max-width:980px) {
+    
     .content-box{
+        width:100%;
+    }
+
+    .portfolioimg{
         width:100%;
     }
 }
 
+/*768 screen size*/
 @media screen and (max-width:768px) {
     .content-box{
         width:100%;
     }
+
+    .portfolioimg{
+        width:100%;
+    }
 }
 
+/*640 screen size*/
 @media screen and (max-width:640px) {
     .content-box{
         width:100%;
+    }
+    .first-row{
+        flex-direction:column;
+    }
+    .second-row{
+        flex-direction:column;
     }
 }
