@@ -14,7 +14,7 @@ __Tools/Languages Used:__
 ---
 __Folders + Files Used to Format Each Page:__
 ```
-Bootstrap-Portfolio Folder
+Responsive-Portfolio Folder
   1. index.html
   2. portfolio.html
   3. contact.html
@@ -29,13 +29,13 @@ Placeholder images for portfolio found on https://unsplash.com/
 ## Regular desktop screen:
 ![Image](pagescreenshots/regular.png)
 
-## Viewport 980px:
+## Viewport 980px (Tablet):
 ![Image](pagescreenshots/980px.png)
 
-## Viewport 768px:
+## Viewport 768px (iPad):
 ![Image](pagescreenshots/768px.png)
 
-## Viewport 640px:
+## Viewport 640px (iPhone):
 ![Image](pagescreenshots/640px.png)
 
 ---
