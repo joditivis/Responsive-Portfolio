@@ -1,19 +1,16 @@
 # Responsive-Portfolio
 
-This assignment required the use of media queries to make our first assignment (Basic-Portfolio) responsive to any viewport
+This assignment required the use of media queries to make our first assignment (Basic-Portfolio) responsive to any viewport.
 
  __Link to Webpage: https://joditivis.github.io/Responsive-Portfolio/__
 
-__Tools/Languages Used:__
-```
+__Tools + Languages Used:__
 - HTML5
 - CSS
   -> media queries used within CSS for a responsive and functioning sight for any viewport 
-```
 
 ---
-__Folders + Files Used to Format Each Page:__
-```
+__Folder + File Structure Used:__
 Responsive-Portfolio Folder
   1. index.html
   2. portfolio.html
@@ -21,7 +18,7 @@ Responsive-Portfolio Folder
     -- assets Folder
       1. css folder -> style.css
       2. images folder -> all image files kept here
-```
+
 Placeholder images for portfolio found on https://unsplash.com/
 
 ---
